@@ -1,4 +1,4 @@
 1.find
 2.top
-3.kill -9
+3.kill
 4.diff
